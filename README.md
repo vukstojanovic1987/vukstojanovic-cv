@@ -1,64 +1,34 @@
-# Vuk Stojanović - Portfolio
+# Vuk Stojanović CV
 
-Personal portfolio website showcasing experience in ERP systems, software development and business process automation.
+Bilingual HTML/CSS CV built as a lightweight mini website with an A4 print-ready layout.
 
-## 🚀 Overview
+## Features
 
-This website presents:
+- Serbian and English CV versions
+- A4 print-ready layout
+- Print / Save as PDF support
+- Responsive web preview
+- Clean HTML and CSS structure
+- Portfolio link
 
-- Professional experience and career development
-- Practical .NET projects and tools
-- Business systems and internal applications
-- Technical and business skills
-- Contact information
+## Structure
 
-The portfolio is designed to be clean, minimal and focused on real-world solutions.
+- `index.html` - Serbian CV
+- `en.html` - English CV
+- `styles.css` - styling and print layout
+- `image/` - profile image, logo and favicon
 
-## 🧠 Focus
+## Print / PDF
 
-Main areas of work:
+Use the **Preuzmi PDF / Download PDF** button to open the browser print dialog, then select **Save as PDF**.
 
-- ERP systems development and improvement
-- Systems integration with external platforms
-- Business process automation
-- Internal software tools and applications
+The print version is optimized for A4 format with a clean white background.
 
-## 🛠️ Technologies
-
-- HTML5
-- CSS3
-- Responsive design
-- Git & GitHub
-
-## 🌐 Structure
-
-The website includes:
-
-- Home
-- Systems
-- Projects
-- Experience
-- Skills
-- Contact
-
-Available in two languages:
-
-- Serbian (SR)
-- English (EN)
-
-## 📄 Features
-
-- SEO optimized (meta tags, sitemap, robots)
-- Open Graph support for social sharing
-- Responsive layout for all devices
-- Downloadable CV (SR and EN)
-- Clean and structured UI
-
-## 🔗 Live Website
+## Live Portfolio
 
 https://vukstojanovic.com
 
-## 📫 Contact
+## Contact
 
 Email: contact@vukstojanovic.com  
 Location: Belgrade, Serbia
